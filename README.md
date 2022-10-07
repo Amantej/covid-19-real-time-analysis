@@ -1,6 +1,7 @@
 # Spring-22_COVID-Team_3
 
 ## Covid Data Analysis
+Dashboard link: https://caronavirusdash.herokuapp.com/
 
 ## Table of contents
 * [Introduction](#introduction)
