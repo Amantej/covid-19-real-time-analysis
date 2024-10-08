@@ -1,7 +1,7 @@
 # Spring-22_COVID-Team_3
 
 ## Covid Data Analysis
-Dashboard link: https://caronavirusdash.herokuapp.com/
+Dashboard link: https://covid-19-real-time-analysis.onrender.com/
 
 ## Table of contents
 * [Introduction](#introduction)
